@@ -8,12 +8,35 @@ h1{
 
 h2{
     font-family: fantasy;
-    background-color: deepskyblue
+    background-color: deepskyblue;
+    
 }
 
 
 h3{
     color: chocolate;
     font-family: Arial, sans-serif;
+    letter-spacing: normal;
 }
 
+
+table{
+    border: 5px solid black;
+    font-family: Arial;
+    background-color: darkseagreen;
+}
+
+td{
+    border: 1px solid black;
+}
+
+
+
+tr{
+    border: 1px solid black;
+}
+
+
+th{
+    border: 1px solid red;
+}
